@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'SwisserAI'
-description 'Drug Selling converted to Qbox - Generated with SwisserAI'
+author 'Ghost Developments'
+description 'Drug Selling converted to Qbox'
 version '1.0.0'
 
 shared_script 'config.lua'
